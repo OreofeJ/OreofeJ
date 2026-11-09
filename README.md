@@ -1,7 +1,6 @@
 - 👋 Hello, thank you for stopping by. I’m @OreofeJ
 - 👀 I’m interested in Data Analysis, Data Visualization, Spatial Data Analysis, Machine Learning and Deep Learning.
-- 🌱 I’m currently working on Spatial Data Analysis problems using QGIS.
-- 💞️ I’m looking to collaborate on SDA, ML & DL.
+- 🌱 I’m currently working on xAI and AI Safety Challenges and looking to collaborate.
 - 📫 How to reach me: jayobalpha@gmail.com...
 
 <!---
